@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Angela Staples, PhD is an associate professor in the psychology department at Eastern Michigan Unviersity. Her research interests include the development of sleep in early childhood and how poor sleep effects parents and children. She collaborates on two longitudinal studies with colleagues at EMU. With Jamie Lawler, PhD, we are study the effects of early adversity on the development of self-regulation from 24 to 48 months. With Renee Lajiness-O'Neill, PhD and the larger PediaTrac team, we are studying development from newborn to 18 months to identify early behavioral indicators of neurodevelopmental delay.
+Angela Staples, PhD is an associate professor in the Psychology Department at Eastern Michigan University. Her research interests include the development of sleep in early childhood and how poor sleep effects parents and children. She collaborates on two longitudinal studies with colleagues at EMU. With Jamie Lawler, PhD, we are study the effects of early adversity on the development of self-regulation from 24 to 48 months. With Renee Lajiness-O'Neill, PhD and the larger PediaTrac team, we are studying development from newborn to 18 months to identify early behavioral indicators of neurodevelopmental delay.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
